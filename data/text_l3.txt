@@ -1,0 +1,1106 @@
+1
+EN
+Council of the European Union General Conditions
+General Secretariat June 2016 - EN
+GENERAL CONDITIONS OF THE CONTRACT
+The contract consists of a purchase order and these general conditions, including the Annex on
+security measures. If there is any conflict between different provisions in the contract, the following
+rules must be applied:
+(a) the provisions set out in the purchase order take precedence over those set out in the general
+conditions;
+(b) the provisions set out in the general conditions take precedence over those set out in the
+tender specifications;
+(c) the provisions set out in the tender specifications take precedence over those set out in the
+contractor's tender.
+All documents issued by the contractor (end-user agreements, general terms and conditions, etc.),
+with the exception of its tender, are held inapplicable, unless explicitly mentioned in the special
+conditions of the contract. In all circumstances, in the event of contradiction between the contract
+and documents issued by the contractor, the contract prevails, regardless of any provision to the
+contrary in the contractor's documents.
+1. DEFINITIONS
+For the purpose of the contract, the following definitions (indicated in italics in the text)
+apply:
+'Back Office': the internal system(s) used by the parties to process electronic invoices;
+'Confidential information or document': any information or document received by either
+party from the other or accessed by either party in the context of the performance of the
+contract, that any of the parties has identified in writing as confidential. It cannot include
+information that is publicly available;
+'Conflict of Interest': a situation where the impartial and objective performance of the
+contract by the contractor is compromised for reasons involving family, emotional life,
+political or national affinity, economic interest, or any other shared interest with the
+contracting authority or any third party related to the subject-matter of the contract;
+2
+EN
+'Creator': means any natural person who contributes to the production of the result;
+'EDI message' (electronic data interchange): a message created and exchanged through the
+electronic transfer, from computer to computer, of commercial and administrative data using
+an agreed standard;
+'e-PRIOR': the service-oriented communication platform that provides a series of web
+services and allows the exchange of standardised electronic messages and documents
+between the parties. This is done either through web services, with a machine-to-machine
+connection between the parties' back office systems (EDI messages), or through a web
+application (the supplier portal). The platform may be used to exchange electronic
+documents (e-documents) such as electronic invoices between the parties. Technical
+specifications (i.e. the interface control document), details on access and user manuals are
+available on the following
+website: http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_
+en.htm
+'Force majeure': any unforeseeable, exceptional situation or event beyond the control of the
+parties that prevents either of them from fulfilling any of their obligations under the contract.
+The situation or event must not be attributable to error or negligence on the part of the
+parties or on the part of the subcontractors and must prove to be inevitable despite their
+exercising due diligence. Defaults of service, defects in equipment or material or delays in
+making them available, labour disputes, strikes and financial difficulties may not be invoked
+as force majeure, unless they stem directly from a relevant case of force majeure;
+'Formal notification' (or 'formally notify'): form of communication between the parties
+made in writing by post or email, which provides the sender with compelling evidence that
+the message was delivered to the specified recipient;
+'Fraud': any intentional act or omission affecting the Union's financial interests relating to
+the use or presentation of false, incorrect or incomplete statements or documents or to nondisclosure of information in violation of a specific obligation;
+'Interface Control Document': the guideline document which lays down the technical
+specifications, message standards, security standards, checks of syntax and semantics, etc. to
+facilitate machine-to-machine connection. This document is updated on a regular basis;
+'Irregularity': any infringement of a provision of Union law resulting from an act or
+omission by an economic operator, which has, or would have, the effect of prejudicing the
+Union's budget;
+'Notification' (or 'notify'): form of communication between the parties made in writing,
+including by electronic means;
+'Performance of the contract': the execution of tasks and delivery of the purchased
+supplies/services by the contractor to the contracting authority;
+'Personnel': persons employed directly or indirectly or contracted by the contractor to
+perform the contract;
+3
+EN
+'Pre-existing material': any material, document, technology or know-how which exists prior
+to the contractor using it for the production of a result in the performance of the contract;
+'Pre-existing right': any industrial and intellectual property right on pre-existing material; it
+may be a right of ownership, a licence right and/or right of use belonging to the contractor, the
+creator, the contracting authority or to any other third parties;
+'Professional conflicting interest': a situation in which the contractor's previous or ongoing
+professional activities affect its capacity to perform the contract to an appropriate quality
+standard;
+'Related person': any person who has the power to represent the contractor or to take
+decisions on its behalf;
+'Result': any intended outcome of the performance of the contract, whatever its form or
+nature, which is delivered and finally or partially approved by the contracting authority. A
+result may be further defined in the contract as a deliverable. A result may, in addition to
+materials produced by the contractor or at its request, also include pre-existing materials;
+'Substantial error': any infringement of a contract provision resulting from an act or
+omission, which causes or might cause a loss to the Union's budget;
+'Supplier portal': the e-PRIOR portal, which allows the contractor to exchange electronic
+business documents, such as invoices, through a graphical user interface; its main features can
+be found in the supplier portal overview document available on the following website:
+http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+2. ROLES AND RESPONSIBILITIES IN THE EVENT OF A JOINT TENDER
+In the event of a joint tender submitted by a group of economic operators and where the
+group does not have legal personality or legal capacity, one member of the group is appointed
+as leader of the group.
+3. SEVERABILITY
+Each provision of the contract is severable and distinct from the others. If a provision is or
+becomes illegal, invalid or unenforceable to any extent, it must be severed from the remainder
+of the contract. This does not affect the legality, validity or enforceability of any other
+provisions of the contract, which continue in full force and effect.
+The illegal, invalid or unenforceable provision must be replaced by a legal, valid and
+enforceable substitute provision which corresponds as closely as possible with the actual
+intent of the parties under the illegal, invalid or unenforceable provision.
+The replacement of such a provision must be made in accordance with Article 11. The
+contract must be interpreted as if it had contained the substitute provision as from its entry
+into force.
+4
+EN
+4. PERFORMANCE OF THE CONTRACT (SUPPLIES AND SERVICES)
+Delivery of supplies
+4.1. The requested dates of delivery and the site to which the delivery is to be made are specified
+in the purchase order. The contracting authority reserves the right to change the address
+within a reasonable time before delivery.
+The contracting authority must be notified of the exact date of delivery within the period
+indicated in the purchase order. All deliveries must be made to the agreed place of delivery
+during the hours indicated in the purchase order.
+The contractor must bear all costs and risks involved in delivering the supplies to the place
+of delivery.
+4.2. Each delivery must be accompanied by a consignment note in duplicate, duly signed and
+dated by the contractor or its carrier, stating the purchase order number and particulars of the
+supplies delivered. One copy of the consignment note must be countersigned by the
+contracting authority and returned to the contractor or to its carrier.
+4.3. Signature of the consignment note by the contracting authority is simply an
+acknowledgment of the fact that the delivery has taken place and in no way implies
+conformity of the supplies with the purchase order.
+Conformity of the supplies delivered must be evidenced by the signature of a certificate to
+that effect by the contracting authority no later than one month after the date of delivery,
+unless otherwise specified in the purchase order.
+Conformity must be declared only where the conditions laid down in the purchase order are
+satisfied and the supplies conform to the tender specifications.
+If, for reasons attributable to the contractor, the contracting authority is unable to accept the
+supplies, the contractor must be notified at the latest by the deadline for conformity.
+4.4. The supplies delivered by the contractor to the contracting authority must be in conformity
+with the purchase order in respect of quantity, quality, price and packaging.
+The supplies delivered must:
+(a) correspond to the description given in the contractor's tender and possess the
+characteristics of the supplies provided by the contractor to the contracting authority as
+a sample or model;
+(b) be fit for any specific purpose required of them by the contracting authority and made
+known to the contractor at the time of conclusion of the contract and accepted by the
+contractor;
+(c) be fit for the purposes for which supplies of the same type are normally used;
+5
+EN
+(d) demonstrate the high quality standards and performance which are normal in supplies
+of the same type and which the contracting authority can reasonably expect, given the
+nature of the supplies and taking into account any public statements on the specific
+characteristics of the supplies made by the contractor, the producer or its
+representative, particularly in advertising or on labelling, in accordance with the state
+of the art in the industry and the provisions of the contractor's tender;
+(e) be packaged according to the usual method for supplies of the same type or, failing
+this, in a way designed to preserve and protect them.
+4.5. The contractor is liable to the contracting authority for any lack of conformity which exists
+at the time the supplies are verified.
+In the event of lack of conformity, without prejudice to Article 15 on liquidated damages
+applicable to the total price of the supplies concerned, the contracting authority is entitled:
+(a) either to have the supplies brought into conformity, free of charge, by repair or
+replacement;
+(b) or to have an appropriate reduction made in the price.
+Any repair or replacement must be completed within a reasonable time and without any
+significant inconvenience to the contracting authority, taking account of the nature of the
+supplies and the purpose for which they are required by the contracting authority.
+The term 'free of charge' in point (a) refers to the costs incurred to bring the supplies into
+conformity, particularly the cost of postage, labour and materials.
+4.6. If required by the purchase order, the contractor must assemble the supplies delivered within
+a period of one month unless otherwise specified in the purchase order.
+Any lack of conformity resulting from incorrect installation of the supplies must be deemed
+to be equivalent to lack of conformity of the supplies if installation was provided for by the
+purchase order and the supplies were installed by the contractor or under its responsibility.
+This applies equally if the product was to be installed by the contracting authority and was
+incorrectly installed owing to a shortcoming in the installation instructions.
+4.7. The supplies must be packaged in strong boxes or crates or in any other way that ensures the
+contents remain intact and prevents damage or deterioration. Packaging, pallets, etc.,
+including contents, must not weigh more than 500 kg.
+Unless otherwise specified in the purchase order, pallets must be considered as one-way
+packaging and do not need to be returned. Each box must be clearly labelled with the
+following information:
+- name of contracting authority and address for delivery;
+- name of contractor;
+- description of contents;
+- date of delivery;
+6
+EN
+- number and date of purchase order.
+4.8. The supplies must be guaranteed against all defects in manufacture or materials for two
+years from the date of delivery, unless provision is made for a longer period in the tender
+specifications.
+The contractor must guarantee that any permits and licences required for manufacturing and
+selling the supplies have been obtained.
+The contractor must replace at its own expense, and within a reasonable time limit to be
+determined by agreement between the parties, any items which become damaged or
+defective in the course of normal use during the guarantee period.
+The contractor is responsible for any conformity defect which exists at the time of delivery,
+even if this defect does not appear until a later date.
+The contractor is also responsible for any conformity defect which occurs after delivery and
+is ascribable to non-compliance with its obligations, including failure to provide a guarantee
+that, for a certain period, supplies used for the purposes for which they are normally used or
+for a specific purpose will preserve their qualities or characteristics as specified.
+If part of an item is replaced, the replacement part must be guaranteed under the same terms
+and conditions for a further period of the same duration as that specified above.
+If a defect is found to originate in a systematic flaw in design, the contractor must replace or
+modify all identical parts incorporated in the other supplies that are part of the order, even
+though they may not have been the cause of any incident. In this case, the guarantee period
+must be extended as stated above.
+Services
+4.9. The contractor must provide services of a high quality standard, in accordance with the state
+of the art in the industry and the provisions of the contract, in particular the tender
+specifications and the terms of its tender.
+4.10. The contractor must comply with the minimum requirements provided for in the tender
+specifications. This includes compliance with applicable obligations under environmental,
+social and labour law established by Union law, national law and collective agreements or
+by the international environmental, social and labour law provisions listed in Annex X to
+Directive 2014/24/EU1
+.
+4.11. If the contractor fails to provide the service in accordance with the contract ('unperformed
+obligations') or if it fails to provide the service in accordance with the expected quality
+levels specified in the tender specifications ('low-quality delivery'), the contracting authority
+may reduce or recover payments proportionally to the seriousness of the unperformed
+obligations or low-quality delivery. This includes in particular cases where the contracting
+authority cannot approve a result, report or deliverable as defined in the purchase order after
+the contractor has submitted the required additional information, correction or new version.
+A reduction in price may be imposed, together with liquidated damages under the conditions
+of Article 15.
+ 1 OJ L 94, 28.3.2014, p. 65.
+7
+EN
+4.12. The contracting authority must formally notify the contractor of its intention to reduce
+payment and the corresponding calculated amount.
+The contractor has 30 days following the date of receipt to submit observations. Failing that,
+the decision becomes enforceable the day after the time limit for submitting observations has
+elapsed.
+If the contractor submits observations, the contracting authority, taking into account the
+relevant observations, must notify the contractor:
+(a) of the withdrawal of its intention to reduce payment; or
+(b) of its final decision to reduce payment and the corresponding amount.
+4.13. Any reduction in price does not affect the contractor's actual or potential liability or the
+contracting authority's rights under Article 17.
+4.14. The contractor has sole responsibility for complying with any legal obligations incumbent
+on it, notably those resulting from tax and workplace safety legislation.
+4.15. Contractors who are natural persons are required to provide proof of their status as a selfemployed person. For that purpose they must submit supporting documents concerning their
+social security cover and value added tax (VAT) status.
+4.16. The contractor has sole responsibility for taking the necessary steps to obtain any permit or
+licence required for performance of the contract under Belgian laws and regulations.
+4.17. All periods specified in the contract are calculated in calendar days, unless otherwise
+specified.
+4.18. The contractor must not present itself as a representative of the contracting authority and
+must inform third parties that it is not part of the European public service.
+4.19. The contract must be performed in such a way as to exclude the possibility of the contractor
+or its personnel executing tasks under conditions identical to the working conditions of a
+person employed by the contracting authority. The contractor or its personnel must not be
+incorporated into the contracting authority's administrative organisation.
+4.20. In the framework of its employment or service relationships with its personnel the contractor
+must indicate that
+- personnel executing the tasks assigned to the contractor may not receive orders
+directly from the contracting authority;
+- the contracting authority may not under any circumstances be considered to be the
+personnel's employer and the said personnel must undertake not to invoke in respect
+of the contracting authority any right arising from the contractual relationship
+between the contracting authority and the contractor.
+4.21. The contractor must ensure that the personnel performing the contract and any future
+replacement personnel possess the professional qualifications and experience required to
+provide the services, as the case may be on the basis of the selection criteria set out in the
+tender specifications.
+8
+EN
+4.22. At the contracting authority's reasoned request, the contractor must replace any member of
+personnel who:
+(a) does not have the expertise required to provide the services; or
+(b) has caused disruption on the premises of the contracting authority.
+The contractor bears the cost of replacing its personnel and is responsible for any delay in
+providing the services resulting from the replacement of personnel.
+4.23. The contractor must record and report to the contracting authority any problem that affects
+its ability to provide the services. The report must describe the problem, state when it started
+and what action the contractor is taking to resolve it.
+5. COMMUNICATION BETWEEN THE PARTIES
+5.1. Form and means of communication
+Any communication of information, notices or documents under the purchase order must:
+(a) be made in writing in paper or electronic format in the language of the purchase order;
+(b) bear the purchase order number;
+(c) be made using the relevant communication details set out in the purchase order; and
+(d) be sent by post or email.
+If a party requests written confirmation of an email within a reasonable time, the other party
+must provide an original signed paper version of the communication as soon as possible.
+The parties agree that any communication made by email has full legal effect and is
+admissible as evidence in judicial proceedings.
+5.2. Date of communications by post and email
+Any communication is deemed to have been made when the receiving party receives it,
+unless the purchase order refers to the date when the communication was sent.
+9
+EN
+An email is deemed to have been received by the receiving party on the day of dispatch of
+that email, provided that it is sent to the email address indicated in the purchase order. The
+sending party must be able to prove the date of dispatch. In the event that the sending party
+receives a non-delivery report, it must make every effort to ensure that the other party
+actually receives the communication by email or post. In such a case, the sending party is
+not held in breach of its obligation to send such communication within a specified deadline.
+Post sent to the contracting authority is deemed to have been received by the contracting
+authority on the date on which the department responsible referred to in the purchase order
+registers it.
+Formal notifications are considered to have been received by the receiving party on the date
+of receipt indicated in the proof received by the sending party that the message has been
+delivered to the specified recipient.
+5.3. Submission of financial documents via e-PRIOR and validity of these documents
+5.3.1. For communication of financial documents the parties agree that the contractor will either
+use the supplier portal or take the necessary measures to use EDI.
+5.3.2. The parties hereby agree that any financial document and related attachments exchanged
+through the supplier portal or through a direct connection established between the contractor
+and the contracting authority's back offices will have the same legal effects as paper invoices
+and will be admissible as evidence in legal proceedings.
+5.3.3. The contracting authority must take the necessary measures to implement and maintain
+electronic systems that enable the supplier portal to be used effectively. The electronic
+systems are specified in the Supplier Portal Overview2 and e-Invoicing User Manual3
+.
+5.3.4. Should a direct connection be established between the contractor and the contracting
+authority's back offices to allow electronic transfer of financial documents, both parties must
+take the measures necessary on their side to implement and maintain electronic systems that
+enable EDI to be used effectively. The electronic systems are specified in the interface
+control document4
+.
+5.3.5. If communication via the supplier portal or the EDI communication, as appropriate, is
+hindered by factors beyond the control of one party, it must notify the other immediately and
+the parties must take the necessary measures to restore this communication.
+5.3.6. If it is impossible to have the supplier portal or the EDI communication restored within a
+period of two working days, the contracting authority will notify the contractor that an
+alternative messaging form will be used, i.e. paper messaging or email, until the supplier
+portal or EDI communication, as appropriate, is restored.
+ 2 Please see
+http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+3 Please see http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+4 The document is available for consultation at https://circabc.europa.eu/w/browse/5290b7b0-
+8ca8-454b-87eb-0ac990362861
+10
+EN
+5.3.7. If it is impossible for the contractor to have the communication restored within a period of
+two working days, the contractor will notify the contracting authority that an alternative
+messaging form will be used, i.e. paper messaging or email, until the supplier portal or EDI
+communication, as appropriate, is restored.
+5.3.8. The contractor must be notified of changes in the interface control document. When such a
+change requires adaptations by the contractor, then the contractor will have a period of six
+months to implement this change. This period can be shortened upon mutual agreement of
+the parties. This period of six months does not apply to urgent measures required by the
+security policy for the information systems of the contracting authority to ensure the
+integrity, confidentiality and non-repudiation of information and the availability of ePRIOR.
+5.4. Validity and acceptance of electronic invoices
+5.4.1. The parties agree that an invoice, sent via the supplier portal, qualifies as an electronic
+invoice.
+5.4.2. Similarly, should a direct connection be established between the contractor and the
+contracting authority's back offices to allow electronic transfer of financial documents, the
+parties agree that a financial document, sent as mentioned in the interface control document,
+qualifies as an EDI message.
+5.4.3. Where a financial document is dispatched through the supplier portal, it is deemed to have
+been legally issued or sent when the contractor is able to successfully submit the financial
+document without any error messages. The PDF and XML documents generated in relation
+to the financial document are to be considered as proof of receipt by the contracting
+authority.
+5.4.4. Where a financial document is dispatched using a direct connection established between the
+contractor and the contracting authority's back offices, the financial document is deemed to
+have been legally issued or sent when its status is 'received' as defined in the interface
+control document.
+5.5. Storage of electronic invoices and safety measures
+5.5.1. When using the supplier portal, the contractor must, for each electronic invoice, download
+the PDF and XML message as applicable within one year of submission, and store them
+securely together with the related attachments, if any, in accordance with the time limits and
+specifications prescribed by the applicable legislative requirements. After the end of the oneyear period copies of the financial documents will no longer be available for automatic
+download from the system.
+5.5.2. All EDI messages exchanged by the parties must be stored by each party, unaltered and
+securely, in accordance with the time limits and specifications prescribed by the applicable
+legislative requirements.
+5.5.3. When using a direct connection for the electronic transfer of financial documents, the parties
+must take the necessary measures to implement and maintain safety measures and
+procedures in order to adequately prevent messages from incurring any delays, being
+corrupted as to content or form, or being lost.
+11
+EN
+5.5.4. In all cases the parties must strive to prevent third parties from obtaining unauthorised
+access to messages.
+5.5.5. If the use of safety measures and procedures leads to the rejection of or detection of one or
+more errors in an EDI message, the receiver must inform the sender thereof as soon as
+possible, but at the latest within two calendar days.
+6. LIABILITY
+6.1. The contracting authority is not liable for any damage or loss caused by the contractor,
+including any damage or loss to third parties during or as a consequence of performance of
+the contract.
+6.2. If required by the relevant applicable legislation, the contractor must take out an insurance
+policy against risks and damage or loss relating to the performance of the contract. It must
+also take out supplementary insurance as reasonably required by standard practice in the
+industry. Upon request, the contractor must provide the contracting authority with evidence
+of insurance cover.
+6.3. The contractor is liable for any loss or damage caused to the contracting authority during or
+as a consequence of performance of the contract, including in the event of subcontracting,
+but only to an amount not exceeding three times the total amount of the contract. However,
+if the damage or loss is caused by the gross negligence or wilful misconduct of the
+contractor or of its personnel or subcontractors, the contractor is liable for the whole amount
+of the damage or loss.
+6.4. If a third party brings any action against the contracting authority in connection with the
+performance of the contract, including any action for alleged breach of intellectual property
+rights, the contractor must assist the contracting authority in the legal proceedings, including
+by intervening in support of the contracting authority upon request.
+If the contracting authority's liability towards the third party is established and if such
+liability is caused by the contractor during or as a consequence of the performance of the
+contract, Article 6.3 applies.
+6.5. If the contractor is composed of two or more economic operators (i.e. which submitted a
+joint tender), they are all jointly and severally liable to the contracting authority for the
+performance of the contract.
+6.6. The contracting authority is not liable for any loss or damage caused to the contractor during
+or as a consequence of performance of the contract, unless the loss or damage was caused
+by wilful misconduct or gross negligence of the contracting authority.
+7. CONFLICTS OF INTEREST AND PROFESSIONAL CONFLICTING INTERESTS
+7.1. The contractor must take all the necessary measures to prevent any situation of conflict of
+interest or professional conflicting interest.
+7.2. The contractor must notify the contracting authority in writing as soon as possible of any
+situation that could constitute a conflict of interest or a professional conflicting interest
+12
+EN
+during the performance of the contract. The contractor must immediately take action to
+rectify the situation.
+The contracting authority may do any of the following:
+(a) verify that the contractor's action is appropriate;
+(b) require the contractor to take further action within a specified deadline.
+7.3. The contractor must pass on all the relevant obligations in writing to:
+(a) its personnel;
+(b) any natural person with the power to represent it or take decisions on its behalf;
+(c) third parties involved in the performance of the contract, including subcontractors.
+The contractor must also ensure that the persons referred to above are not placed in a
+situation which could give rise to conflicts of interest.
+8. CONFIDENTIALITY
+8.1. The contracting authority and the contractor must treat with confidentiality any information
+or documents, in any format, disclosed in writing or orally, relating to the performance of
+the contract and identified in writing as confidential.
+8.2. Each party must:
+(a) not use confidential information or documents for any purpose other than to perform
+its obligations under the contract without the prior written agreement of the other
+party;
+(b) ensure the protection of such confidential information or documents with the same
+level of protection as its own confidential information and in any case with due
+diligence;
+(c) not disclose, directly or indirectly, confidential information or documents to third
+parties without the prior written agreement of the other party.
+8.3. The confidentiality obligations set out in this Article are binding on the contracting authority
+and the contractor during the performance of the contract and for as long as the information
+or documents remain confidential unless:
+(a) the disclosing party agrees to release the receiving party from the confidentiality
+obligation earlier;
+(b) the confidential information or documents become public through means other than a
+breach of the confidentiality obligation;
+(c) the applicable law requires the disclosure of the confidential information or
+documents.
+13
+EN
+8.4. The contractor must obtain from any natural person with the power to represent it or take
+decisions on its behalf, as well as from third parties involved in the performance of the
+contract, a commitment that they will comply with this Article. At the request of the
+contracting authority, the contractor must provide documentary evidence of this
+commitment.
+9. PROCESSING OF PERSONAL DATA
+9.1. Any personal data included in the contract must be processed in accordance with Regulation
+(EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on
+the protection of individuals with regard to the processing of personal data by the
+Community institutions and bodies and on the free movement of such data. Such data must
+be processed by the data controller solely for the purposes of the performance, management
+and monitoring of the contract. This does not affect its possible transmission to bodies
+entrusted with monitoring or inspection tasks in application of Union law.
+9.2. The contractor has the right to access its personal data and the right to rectify any such data.
+The contractor should address any queries concerning the processing of its personal data to
+the data controller.
+9.3. The contractor has right of recourse at any time to the European Data Protection Supervisor.
+9.4. If the contract requires the contractor to process any personal data, the contractor may act
+only under the supervision of the data controller, in particular with regard to the purposes of
+the processing, the categories of data that may be processed, the recipients of the data and
+the means by which data subjects may exercise their rights.
+9.5. The contractor must grant personnel access to the data to the extent strictly necessary for the
+performance, management and monitoring of the contract.
+9.6. The contractor must adopt appropriate technical and organisational security measures,
+giving due regard to the risks inherent in the processing and to the nature of the personal
+data concerned, in order to:
+(a) prevent any unauthorised person from gaining access to computer systems
+processing personal data, and especially:
+(i) unauthorised reading, copying, alteration or removal of storage media;
+(ii) unauthorised data inputting, as well as any unauthorised disclosure, alteration
+or erasure of stored personal data;
+(iii) unauthorised use of data processing systems by means of data transmission
+facilities;
+(b) ensure that authorised users of a data processing system can access only the personal
+data to which their access right refers;
+(c) record which personal data have been communicated, when and to whom;
+(d) ensure that personal data being processed on behalf of third parties can be processed
+only in the manner prescribed by the contracting authority;
+14
+EN
+(e) ensure that, during communication of personal data and transport of storage media,
+the data cannot be read, copied or erased without authorisation;
+(f) design its organisational structure in such a way that it meets data protection
+requirements.
+9.7. Any request from a third party to the contract [be it a private person or any public
+authority]for disclosure of personal data held by the contractor or to which the contractor
+has access must be immediately communicated to the contracting authority.
+9.8. An infringement by the contractor or its personnel of the provisions defined in this Article
+constitutes a breach of contract entitling the contracting authority to terminate the contract
+with immediate effect at the contractor's expense and will render the latter liable for
+damages, with interest, for any resulting loss.
+10. SUBCONTRACTING
+10.1. The contractor must not subcontract and have the contract performed by third parties beyond
+the third parties already mentioned in its tender without prior written authorisation from the
+contracting authority.
+10.2. Even if the contracting authority authorises subcontracting, the contractor remains bound by
+its contractual obligations and is solely responsible for the performance of the contract.
+10.3. The contractor must ensure that the subcontract does not affect the rights of the contracting
+authority under the contract, particularly those under Articles 8, 13 and 21.
+10.4. The contracting authority may request that the contractor replace a subcontractor found to be
+in a situation provided for in points (d) and (e) of Article 17.1.
+11. AMENDMENTS
+11.1. Any amendment to the contract must be made in writing before all contractual obligations
+have been fulfilled.
+11.2. An amendment must not make changes to the contract that might alter the initial conditions
+of the procurement procedure or result in unequal treatment of tenderers.
+15
+EN
+12. ASSIGNMENT
+12.1. The contractor must not assign the rights and obligations arising from the contract, including
+claims for payments or factoring, without prior written authorisation from the contracting
+authority. In such cases, the contractor must provide the contracting authority with the
+identity of the intended assignee.
+12.2. Any right or obligation assigned by the contractor without authorisation is not enforceable
+against the contracting authority.
+13. INTELLECTUAL PROPERTY RIGHTS
+13.1. Ownership of the rights in the results
+The Union irrevocably acquires worldwide ownership of the results and of all intellectual
+property rights under the contract. The intellectual property rights so acquired include any
+rights, such as copyright and other intellectual or industrial property rights, to any of the
+results and to all technological solutions and information created or produced by the
+contractor or by its subcontractor in performance of the contract. The contracting authority
+may exploit and use the acquired rights as stipulated in the contract. The Union acquires all
+the rights from the moment the contracting authority approves the results delivered by the
+contractor. Such delivery and approval are deemed to constitute an effective assignment of
+rights from the contractor to the Union.
+The payment of the price includes any fees payable to the contractor in relation to the
+acquisition of ownership of rights by the Union including for all forms of exploitation and of
+use of the results.
+13.2. Licensing rights on pre-existing materials
+The Union does not acquire ownership of pre-existing rights under the contract.
+The contractor licenses the pre-existing rights on a royalty-free, non-exclusive and
+irrevocable basis to the Union, which may use the pre-existing materials for all the modes of
+exploitation set out in the contract. All pre-existing rights are licensed to the Union from the
+moment the results are delivered and approved by the contracting authority.
+The licensing of pre-existing rights to the Union under the contract covers all territories
+worldwide and is valid for the duration of intellectual property rights protection.
+The payment of the price as set out in the contract is deemed to also include any fees
+payable to the contractor in relation to the licensing of pre-existing rights to the Union,
+including for all forms of exploitation and of use of the results.
+16
+EN
+Where performance of the contract requires that the contractor use pre-existing materials
+belonging to the contracting authority, the contracting authority may request that the
+contractor sign an adequate licence agreement. Such use by the contractor will not entail any
+transfer of rights to the contractor and is limited to the needs of the contract.
+13.3. Modes of exploitation
+The Union acquires the rights to the results for the following modes of exploitation:
+(a) reproduction: the right to authorise or prohibit direct or indirect, temporary or
+permanent reproduction of the results by any means (mechanical, digital or other)
+and in any form, in whole or in part;
+(b) communication to the public: the exclusive right to authorise or prohibit any display,
+performance or communication to the public, by wired or wireless means, including
+the making available to the public of the results in such a way that members of the
+public may access them from a place and at a time individually chosen by them; this
+right also includes communication and broadcasting by cable or by satellite;
+(c) distribution: the exclusive right to authorise or prohibit any form of distribution of
+results or copies of the results to the public, by sale or otherwise;
+(d) rental: the exclusive right to authorise or prohibit rental or lending of the results or
+of copies of the results;
+(e) adaptation: the exclusive right to authorise or prohibit any modification of the
+results;
+(f) translation: the exclusive right to authorise or prohibit any translation, adaptation,
+arrangement or creation of derivative works based on the results, and any other
+alteration of the results, subject to the respect of moral rights of authors, where
+applicable;
+(g) where the results are or include a database: the exclusive right to authorise or
+prohibit the extraction of all or a substantial part of the contents of the database to
+another medium by any means or in any form; and the exclusive right to authorise or
+prohibit the reutilisation of all or a substantial part of the contents of the database by
+the distribution of copies, by renting, by online or other forms of transmission;
+(h) where the results are or include patentable subject-matter: the right to register them
+as a patent and to further exploit such a patent to the fullest extent;
+(i) where the results are or include logos or subject-matter which could be registered as
+a trademark: the right to register that logo or subject-matter as a trademark and to
+further exploit and use it;
+(j) where the results are or include know-how: the right to use such know-how as is
+necessary to make use of the results to the full extent provided for by the contract,
+and the right to make it available to contractors or subcontractors acting on behalf of
+the contracting authority, subject to their signing of adequate confidentiality
+undertakings where necessary;
+17
+EN
+(k) where the results are documents: the right to store and archive the results in line with
+the document management rules applicable to the contracting authority, including
+digitisation or converting the format for preservation or new use purposes;
+(l) where the results are or incorporate software, including source code, object code and,
+where relevant, documentation, preparatory materials and manuals, in addition to the
+other rights mentioned in this Article:
+(i) end-user rights, for all uses by the Union or by subcontractors which result
+from the contract and from the intention of the parties;
+(ii) the rights to decompile or disassemble the software;
+(m) to the extent that the contractor may invoke moral rights, the right for the contracting
+authority, except where otherwise provided in the contract, to publish the results with
+or without mentioning the name(s) of the creator(s), and the right to decide when and
+whether the results may be disclosed and published.
+The contractor warrants that the exclusive rights and the modes of exploitation may be
+exercised by the Union on all parts of the results, irrespective of whether they are created by
+the contractor or consist of pre-existing materials.
+Where pre-existing materials are inserted in the results, the contracting authority may accept
+reasonable restrictions impacting on the above list, provided that the said materials are easily
+identifiable and separable from the rest, that they do not correspond to substantial elements
+of the results, and that, should the need arise, satisfactory replacement solutions exist, at no
+additional cost to the contracting authority. In such a case, the contractor must inform the
+contracting authority before making such a choice and the contracting authority has the right
+to refuse it.
+13.4. Identification of pre-existing rights
+When delivering the results, the contractor must warrant that, for any use that the
+contracting authority may envisage within the limits set in the contract, the results and the
+pre-existing material incorporated in the results are free of claims from creators or from any
+third parties and all the necessary pre-existing rights have been obtained or licensed.
+To that effect, the contractor must establish a list of all pre-existing rights to the results of
+the contract or parts thereof, including identification of the rights' owners. If there are no
+pre-existing rights to the results, the contractor must provide a declaration to that effect. The
+contractor must provide the contracting authority with this list or declaration, together with
+the invoice for payment of the balance at the latest.
+13.5. Evidence of granting of pre-existing rights
+Upon request by the contracting authority, the contractor must provide evidence that it has
+ownership of, or the right to use, all the listed pre-existing rights, except for the rights
+owned or licensed by the Union. The contracting authority may request this evidence even
+after the end of the contract.
+18
+EN
+This evidence may refer, for example, to rights to: parts of other documents, images, graphs,
+fonts, tables, data, software, technical inventions, know-how, IT development tools,
+routines, subroutines or other programs ('background technology'), concepts, designs,
+installations or pieces of art, data, source or background materials or any other parts of
+external origin.
+This evidence must include, as appropriate:
+(a) the name and version number of a software product;
+(b) the full identification of the work and its author, developer, creator, translator, data
+entry person, graphic designer, publisher, editor, photographer, producer;
+(c) a copy of the licence to use the product or of the agreement granting the relevant
+rights to the contractor or a reference to this licence;
+(d) a copy of the agreement or extract from the employment contract granting the
+relevant rights to the contractor where parts of the results were created by its
+personnel;
+(e) the text of the disclaimer notice if any.
+Provision of evidence does not release the contractor from its responsibilities if it is found
+that it does not hold the necessary rights, regardless of when and by whom this fact is
+revealed.
+The contractor also warrants that it possesses the relevant rights or powers to execute the
+transfer and that it has paid or has verified payment of all due fees including fees due to
+collecting societies, related to the final results.
+13.6. Quotation of works in the result
+In the result, the contractor must clearly point out all quotations of existing works. The
+complete reference should include, as appropriate, the following: name of the author, title of
+the work, date and place of publication, date of creation, address of publication on the
+internet, number, volume and other information that allows the origin to be easily identified.
+13.7. Moral rights of creators
+By delivering the results, the contractor warrants that the creators will not object to the
+following on the basis of their moral rights under copyright:
+(a) that their names be mentioned or not mentioned when the results are presented to the
+public;
+(b) that the results be divulged or not after they have been delivered in their final version
+to the contracting authority;
+(c) that the results be adapted, provided that this is done in a manner which is not
+prejudicial to the creator's honour or reputation.
+19
+EN
+If moral rights on parts of the results protected by copyright exist, the contractor must obtain
+the consent of creators regarding the granting or waiver of the relevant moral rights in
+accordance with the applicable legal provisions and be ready to provide documentary
+evidence upon request.
+13.8. Image rights and sound recordings
+If natural persons appear in a result or their voice or any other private element is recorded in
+a recognisable manner, the contractor must obtain a statement by these persons (or, in the
+case of minors, by the persons exercising parental authority) giving their permission for the
+described use of their image, voice or private element and, on request, submit a copy of the
+permission to the contracting authority. The contractor must take the necessary measures to
+obtain such consent in accordance with the applicable legal provisions.
+13.9. Copyright notice for pre-existing rights
+When the contractor retains pre-existing rights on parts of the results, reference must be
+inserted to that effect when the result is used as set out in Article 13.3, with the following
+disclaimer: '© — year — European Union. All rights reserved. Certain parts are licensed
+under conditions to the EU', or with any other equivalent disclaimer as the contracting
+authority may consider best appropriate, or as the parties may agree on a case-by-case basis.
+This does not apply where inserting such reference would be impossible, notably for
+practical reasons.
+13.10. Visibility of Union funding and disclaimer
+When making use of the results, the contractor must declare that they have been produced
+under a contract with the Union and that the opinions expressed are those of the contractor
+only and do not represent the contracting authority's official position. The contracting
+authority may waive this obligation in writing or provide the text of the disclaimer.
+14. FORCE MAJEURE
+14.1. If a party is affected by force majeure, it must immediately notify the other party, stating the
+nature of the circumstances, their likely duration and foreseeable effects.
+14.2. A party is not liable for any delay or failure to perform its obligations under the contract if
+that delay or failure is a result of force majeure. If the contractor is unable to fulfil its
+contractual obligations owing to force majeure, it has the right to remuneration only for the
+services actually provided.
+14.3. The parties must take all necessary measures to limit any damage due to force majeure.
+20
+EN
+15. LIQUIDATED DAMAGES
+15.1. Delay in delivery
+If the contractor fails to perform its contractual obligations within the applicable time limits
+set out in the contract, the contracting authority may claim liquidated damages for each day
+of delay using the following formula:
+0.3 x (V/d) where V is the price of the relevant purchase or deliverable or result or, failing
+that, the amount specified in the purchase order;
+d is the duration specified for delivery of the relevant purchase or deliverable or result or,
+failing that, the duration of performance of the contract specified in the purchase order,
+expressed in days.
+15.2. Procedure
+The contracting authority must formally notify the contractor of its intention to apply
+liquidated damages and the corresponding calculated amount.
+The contractor has 30 days following the date of receipt to submit observations. Failing that,
+the decision becomes enforceable the day after the time limit for submitting observations has
+elapsed.
+If the contractor submits observations, the contracting authority, taking into account the
+relevant observations, must notify the contractor:
+(a) of the withdrawal of its intention to apply liquidated damages; or
+(b) of its final decision to apply liquidated damages and the corresponding amount.
+15.3. Nature of liquidated damages
+The parties expressly acknowledge and agree that any amount payable under this Article is
+not a penalty and represents a reasonable estimate of fair compensation for the damage
+incurred due to failure to provide the services within the applicable time limits set out in the
+contract.
+15.4. Claims and liability
+Any claim for liquidated damages does not affect the contractor's actual or potential liability
+or the contracting authority's rights under Article 17.
+21
+EN
+16. SUSPENSION OF THE PERFORMANCE OF THE CONTRACT
+16.1. Suspension by the contractor
+If the contractor is affected by force majeure, it may suspend the performance of the
+contract. The contractor must immediately notify the contracting authority of the suspension.
+The notification must include a description of the force majeure and state when the
+contractor expects to resume the performance of the contract.
+The contractor must notify the contracting authority as soon as it is able to resume
+performance of the contract, unless the contracting authority has already terminated the
+contract.
+16.2. Suspension by the contracting authority
+The contracting authority may suspend the performance of the contract or any part of it:
+(a) if the procedure for awarding the contract or the performance of the contract
+proves to have been subject to substantial errors, irregularities or fraud;
+(b) in order to verify whether the presumed substantial errors, irregularities or fraud
+actually occurred.
+The contracting authority must formally notify the contractor of the suspension. Suspension
+takes effect on the date of formal notification, or at a later date if the formal notification so
+provides.
+The contracting authority must notify the contractor as soon as possible whether:
+(a) it is lifting the suspension; or
+(b) it intends to terminate the contract under point (f) or (j) of Article 17.1.
+The contractor is not entitled to compensation for suspension of any part of the contract.
+17. TERMINATION OF THE CONTRACT
+17.1. Grounds for termination by the contracting authority
+The contracting authority may terminate the contract in the following circumstances:
+(a) if provision of the services under the contract has not actually started within 15 days
+of the scheduled date and the contracting authority considers the new date proposed, if
+any, unacceptable, taking into account Article 11.2;
+(b) if the contractor is unable, through its own fault, to obtain any permit or licence
+required for performance of the contract;
+(c) if the contractor does not perform the contract in accordance with the tender
+specifications or is in breach of another substantial contractual obligation;
+22
+EN
+(d) if the contractor or any person that assumes unlimited liability for the debts of the
+contractor is in one of the situations provided for in points (a) and (b) of Article 106(1)
+of the Financial Regulation5
+;
+(e) if the contractor or any related person is subject to any of the situations provided for
+in points (c) to (f) of Article 106(1) or to Article 106(2) of the Financial Regulation;
+(f) if the procedure for awarding the contract or the performance of the contract proves to
+have been subject to substantial errors, irregularities or fraud;
+(g) if the contractor does not comply with applicable obligations under environmental,
+social and labour law established by Union law, national law, collective agreements or
+by the international environmental, social and labour law provisions listed in Annex X
+to Directive 2014/24/EU;
+(h) if the contractor is in a situation that could constitute a conflict of interest or a
+professional conflicting interest as referred to in Article 7;
+(i) if a change to the contractor's legal, financial, technical, organisational or ownership
+situation is likely to substantially affect the performance of the contract or
+substantially modify the conditions under which the contract was initially awarded;
+(j) in the event of force majeure, where either resuming implementation is impossible or
+the necessary ensuing amendments to the contract would mean that the tender
+specifications are no longer fulfilled or result in unequal treatment of tenderers or
+contractors.
+17.2. Grounds for termination by the contractor
+The contractor may terminate the contract if:
+(a) it has evidence that the contracting authority has committed substantial errors,
+irregularities or fraud in the procedure for awarding the contract or the performance
+of the contract;
+(b) the contracting authority fails to comply with its obligations, in particular the
+obligation to provide the information needed for the contractor to perform the contract
+as provided for in the tender specifications.
+17.3. Procedure for termination
+A party must formally notify the other party of its intention to terminate the contract and the
+grounds for termination.
+The other party has 30 days following the date of receipt to submit observations, including
+the measures it has taken to continue fulfilling its contractual obligations. Failing that, the
+decision to terminate becomes enforceable the day after the time limit for submitting
+observations has elapsed.
+ 5 Regulation (EU, Euratom) No 966/2012 on the financial rules applicable to the general
+budget of the Union, as amended: http://eur-lex.europa.eu/legalcontent/EN/TXT/?uri=celex:32012R0966
+23
+EN
+If the other party submits observations, the party intending to terminate must formally notify
+it either of the withdrawal of its intention to terminate or of its final decision to terminate.
+In the cases referred to in points (a) to (d) and (g) to (i) of Article 17.1 and in Article 17.2,
+the date on which the termination takes effect must be specified in the formal notification.
+In the cases referred to in points (e), (f) and (j) of Article 17.1, the termination takes effect
+on the day following the date on which the contractor receives notification of termination.
+In addition, at the request of the contracting authority and regardless of the grounds for
+termination, the contractor must provide all necessary assistance, including information,
+documents and files, to allow the contracting authority to complete, continue or transfer the
+services to a new contractor or internally, without interruption or adverse effect on the
+quality or continuity of the services. The parties may agree to draw up a transition plan
+detailing the contractor's assistance unless such plan is already detailed in other contractual
+documents or in the tender specifications. The contractor must provide such assistance at no
+additional cost, unless it can demonstrate that it requires substantial additional resources or
+means, in which case it must provide an estimate of the costs involved and the parties will
+negotiate an arrangement in good faith.
+17.4. Effects of termination
+The contractor is liable for damage incurred by the contracting authority as a result of the
+termination of the contract, including the cost of appointing another contractor to provide or
+complete the services, unless the damage was caused by the situation specified in point (j) of
+Article 17.1 or in Article 17.2. The contracting authority may claim compensation for such
+damage.
+The contractor is not entitled to compensation for any loss resulting from the termination of
+the contract, including loss of anticipated profits, unless the loss was caused by the situation
+specified in Article 17.2.
+The contractor must take all appropriate measures to minimise costs, prevent damage and
+cancel or reduce its commitments.
+Within 60 days of the date of termination, the contractor must submit any report, deliverable
+or result and any invoice required for services that were provided before the date of
+termination.
+In the case of joint tenders, the contracting authority may terminate the contract with each
+member of the group separately on the basis of points (d), (e) or (g) of Article 17.1, under
+the conditions set out in Article 11.2.
+18. INVOICES AND VALUE ADDED TAX
+Invoices must contain the contractor's (or leader's in the case of a joint tender) identification
+data, the amount, the currency and the date, as well as the contract reference.
+Invoices must indicate the place of taxation of the contractor (or leader in the case of a joint
+tender) for VAT purposes and must specify separately amounts not including VAT and
+amounts including VAT.
+24
+EN
+The contracting authority is exempt from all taxes and duties, including VAT, in accordance
+with Articles 3 and 4 of the Protocol on the privileges and immunities of the European
+Union.
+The contractor (or leader in the case of a joint tender) must complete the necessary
+formalities with the relevant authorities to ensure that the services required for performance
+of the contract are exempt from taxes and duties, including VAT.
+19. PAYMENTS
+19.1. Time limit for payments
+Payments must be made within 30 days of receipt of the invoice.
+19.2. Date of payment
+Payments are deemed to be effected on the date when they are debited to the contracting
+authority's account.
+19.3. Currency
+Payments are made in euros or in the currency provided for in the purchase order.
+19.4. Conversion
+The contracting authority makes any conversion between the euro and another currency at
+the daily euro exchange rate published in the Official Journal of the European Union or,
+failing that, at the monthly accounting exchange rate, as established by the European
+Commission and published on the website indicated below, applicable on the day when it
+issues the payment order.
+The contractor makes any conversion between the euro and another currency at the monthly
+accounting exchange rate, established by the Commission and published on the website
+indicated below, applicable on the date of the invoice.
+http://ec.europa.eu/budget/contracts_grants/info_contracts/inforeuro/inforeuro_en.cfm
+19.5. Costs of transfer
+The costs of the transfer are borne as follows:
+(a) the contracting authority bears the costs of dispatch charged by its bank;
+(b) the contractor bears the costs of receipt charged by its bank;
+(c) the party causing repetition of the transfer bears the costs for repeated transfer.
+19.6. Payment of the balance
+The contractor (or leader in the case of a joint tender) must send an invoice for payment of
+the balance within 60 days of the end of the period of provision of the services, as provided
+for in the purchase order or in the tender specifications.
+25
+EN
+Payment of the invoice and approval of documents do not imply recognition of the
+regularity, authenticity, completeness and correctness of the declarations and information
+they contain.
+Payment of the balance may take the form of recovery.
+19.7. Suspension of the time allowed for payment
+The contracting authority may suspend the payment periods specified in the purchase order
+at any time by notifying the contractor (or leader in the case of a joint tender) that its invoice
+cannot be processed. The reasons the contracting authority may cite for not being able to
+process an invoice are:
+(a) because it does not comply with the contract;
+(b) because the contractor has not produced the appropriate documents or deliverables;
+or
+(c) because the contracting authority has observations on the documents or deliverables
+submitted with the invoice.
+The contracting authority must notify the contractor (or leader in the case of a joint tender)
+as soon as possible of any such suspension, giving the reasons for it.
+Suspension takes effect on the date the contracting authority sends the notification. The
+remaining payment period resumes from the date on which the requested information or
+revised documents are received or the necessary further verification, including on-the-spot
+checks, is carried out. Where the suspension period exceeds two months, the contractor (or
+leader in the case of a joint tender) may request that the contracting authority justify the
+continued suspension.
+Where the payment periods have been suspended following rejection of a document referred
+to in the first paragraph of this Article and the new document produced is also rejected, the
+contracting authority reserves the right to terminate the contract in accordance with point (c)
+of Article 17.1.
+19.8. Interest on late payment
+On expiry of the payment periods specified in the purchase order, the contractor (or leader in
+the case of a joint tender) is entitled to interest on late payment at the rate applied by the
+European Central Bank for its main refinancing operations in euros (the reference rate), plus
+eight points. The reference rate is the rate in force, as published in the C series of the
+Official Journal of the European Union, on the first day of the month in which the payment
+period ends.
+Suspension of the payment period as provided for in Article 19.7 is not considered as giving
+rise to late payment.
+Interest on late payment covers the period running from the day following the due date for
+payment up to and including the date of payment as defined in Article 19.2.
+26
+EN
+However, when the calculated interest is EUR 200 or less, it must be paid to the contractor
+(or leader in the case of a joint tender) only if it requests it within two months of receiving
+late payment.
+20. RECOVERY
+20.1. If an amount is to be recovered under the terms of the contract, the contractor must repay the
+contracting authority the amount in question.
+20.2. Recovery procedure
+Before recovery, the contracting authority must formally notify the contractor of its intention
+to recover the amount it claims, specifying the amount due and the reasons for recovery and
+inviting the contractor to make any observations within 30 days of receipt.
+If no observations have been submitted or if, despite the observations submitted, the
+contracting authority decides to pursue the recovery procedure, it must confirm recovery via
+a debit note, which is sent to the contractor by formal notification and which specifies the
+date of payment. The contractor must pay in accordance with the provisions specified in the
+debit note.
+If the contractor does not pay by the due date, the contracting authority may, after informing
+the contractor in writing, recover the amounts due:
+(a) by offsetting them against any amounts owed to the contractor by the Union or by
+the European Atomic Energy Community;
+(b) by calling in a financial guarantee if the contractor has submitted one to the
+contracting authority;
+(c) by taking legal action.
+20.3. Interest on late payment
+If the contractor does not honour the obligation to pay the amount due by the date set by the
+contracting authority in the debit note, the amount due bears interest at the rate indicated in
+Article 19.8. Interest on late payments will cover the period starting on the day after the due
+date for payment and ending on the date when the contracting authority receives the full
+amount owed.
+Any partial payment is first entered against charges and interest on late payment and then
+against the principal amount.
+20.4. Recovery rules in the case of joint tender
+If the contract is signed by a group (joint tender), the group is jointly and severally liable
+under the conditions set out in Article 6 (liability). The contracting authority first claims the
+full amount from the leader of the group.
+27
+EN
+If the leader does not pay by the due date and if the amount cannot be offset in accordance
+with point (a) of Article 20.2, the contracting authority may claim the full amount from any
+other member of the group by notifying it of the debit note already sent to the leader under
+Article 20.2.
+21. CHECKS AND AUDITS
+21.1. The contracting authority and the European Anti-Fraud Office (OLAF) may check or require
+an audit on the performance of the contract. This may be carried out either by OLAF's own
+staff or by any other outside body authorised to do so on its behalf.
+Such checks and audits may be initiated at any moment during performance of the contract
+and up to five years starting from the payment of the balance.
+The audit procedure is initiated on the date of receipt of the relevant letter sent by the
+contracting authority. Audits are carried out on a confidential basis.
+21.2. The contractor must keep all original documents stored on any appropriate medium,
+including digitised originals if authorised under national law, for a period of five years
+starting from the payment of the balance.
+21.3. The contractor must grant the contracting authority's staff and outside personnel authorised
+by the contracting authority the appropriate right of access to sites and premises where the
+contract is performed and to all the information, including information in electronic format,
+needed to conduct such checks and audits. The contractor must ensure that the information is
+readily available at the moment of the check or audit and, if so requested, that information is
+handed over in an appropriate format.
+21.4. On the basis of the findings made during the audit, a provisional report is drawn up. The
+contracting authority or its authorised representative must send it to the contractor, which
+has 30 days following the date of receipt to submit observations. The contractor must
+receive the final report within 60 days following the expiry of the deadline to submit
+observations.
+On the basis of the final audit findings, the contracting authority may recover all or part of
+the payments made in accordance with Article 21 and may take any other measures which it
+considers necessary.
+21.5. In accordance with Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996
+concerning on-the-spot checks and inspections carried out by the Commission in order to
+protect the European Communities' financial interests against fraud and other irregularities
+and Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council
+of 11 September 2013 concerning investigations conducted by the European Anti-Fraud
+Office, OLAF may carry out investigations, including on-the-spot checks and inspections, to
+establish whether there has been fraud, corruption or any other illegal activity under the
+contract affecting the financial interests of the Union. Findings arising from an investigation
+may lead to criminal prosecution under national law.
+28
+EN
+The investigations may be carried out at any moment during the provision of the services
+and up to five years starting from the payment of the balance.
+21.6. The Court of Auditors has the same rights as the contracting authority, particularly right of
+access, for the purpose of checks and audits.
+29
+EN
+ANNEX
+SECURITY MEASURES
+Section 1 – ACCESS TO SECRETARIAT PREMISES
+A. Access passes
+Anyone requiring access to the contracting authority's premises must first be accredited by the
+Accreditation Service. Accreditation is the process of granting the appropriate access pass for
+access to certain parts of the building once it has been ascertained that the person in question
+is entitled to enter.
+The competent official from the requesting department concerned within the contracting
+authority will request access passes for personnel contracted by the contracting authority.
+To this end, the contractor must:
+(1) at least five working days before the scheduled start of the contract, send the designated
+department of the contracting authority a list of the names and full identities of members of
+the contractor's personnel who will work on the contracting authority's premises, together
+with the registration numbers of the vehicles which must have access to the site in order to
+perform the contract. Any communication relating to access to the contracting authority's
+premises and access passes should be sent to the email address of the contact person
+mentioned on the purchase order;
+(2) notify the designated department of the contracting authority, at least three working
+days in advance, of any projected changes to the team(s) working for the contracting
+authority;
+(3) notify the members of the contractor's personnel: that security staff of the contracting
+authority are authorised to check the identity of any person wishing to gain entrance to the
+premises of the contracting authority and, if need be, deny that person access; that the
+contractor's personnel, and the vehicles which they use, may be subject to security checks on
+entering or leaving the contracting authority's premises; and that security staff are entitled to
+temporarily confiscate prohibited objects that pose a risk to security;
+(4) take all necessary measures to protect people and property from any risks arising from
+performance of the contract.
+ANNEX
+30
+EN
+Should the contractor's personnel need to enter secured areas they must have the prior
+authorisation of the service in charge of the secured area concerned. Details are laid down in
+Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU
+classified information (OJ L 274, 15.10.2013, p.1).
+Access passes are issued to the holder in person on production of:
+(a) proof of identity, i.e. a document bearing a photograph, such as a national identity card
+or passport. Other documents, such as a credit card or a driving licence, will not be accepted
+as proof of identity;
+(b) an extract from police records certifying good conduct (extrait de casier
+judiciaire/uittreksel strafregister) obtained from the holder's local police station within the
+previous two months.
+Access passes are strictly personal and are the individual responsibility of their holder. Passes
+may not be given to other members of the contract team or other third parties. Breaches may
+lead to measures such as refusal of entry or withdrawal of certain access rights.
+Access passes must be worn visibly at all times on the contracting authority's premises.
+If an access pass is lost or stolen it must be reported to the Security Office immediately, and
+in the case of a permanent pass also to the police. The holder must apply for a new access
+pass. Upon recovery of a lost or stolen permanent access pass, it must be returned to the
+Accreditation Service even if it has expired.
+B. Vehicles
+Contractors' vehicles may only use the entrance at Chaussée d'Etterbeek/Etterbeeksesteenweg
+70 for the Justus Lipsius (JL) building, and Chaussée d'Etterbeek/Etterbeeksesteenweg 52 for
+the Lex building.
+Holders of a permanent pass may park their vehicles in the JL service car park provided that:
+• the vehicle in question is registered with the Accreditation Service;
+• the pass is programmed to allow automatic access to the service car park;
+• the sticker issued by the Accreditation Service is placed on the inside of the vehicle's
+windscreen, on the left-hand side.
+All occupants of a vehicle, and not just the driver, must present their individual permanent
+access passes to the security guard. Passengers without a permanent pass will be refused
+access at the car park entrance and will be required to enter the building by a pedestrian
+entrance, where they will have to undergo an electronic security check.
+Drivers with ad hoc authorisation may park their vehicles on the access ramp to the loading
+bay at JL but must put the cone issued at the guard's lodge on the roof of the vehicle.
+Parking spaces are available on a 'first come, first served' basis.
+ANNEX
+31
+EN
+Additional security checks are carried out on all vehicles and passengers at the JL car park
+entrance while summit arrangements are in place.
+Belgium's highway code applies to driving on the internal access-ways of the site and in the
+car park. Vehicles driving in the car parks must have their headlights on. Parked vehicles must
+be locked and engines must be switched off.
+Headroom in the car parks is generally limited to 2.05 m. Drivers wishing to enter the car park
+with a higher vehicle must first consult the contracting authority's Accreditation Service.
+Persons with reduced mobility may request a reserved parking space via the Health and Safety
+Department (service.prevention@consilium.europa.eu). This option is also open to people
+with temporarily reduced mobility.
+Please inform the Health and Safety Department should you wish to park an LPG vehicle.
+In the event of an accident, an accident report form ('incident report', available from the
+Security Office) must be completed by the parties involved. Anyone whose vehicle causes
+damage to the contracting authority's property will be held liable for repair costs. The Security
+Office must be notified (tel. 7851 or 8909) and an accident report form completed for the
+insurance companies. The contracting authority declines liability for any loss resulting in
+particular from accidents, theft or damage, whatever the reason or cause, occurring in the car
+park.
+Subcontractors
+Where the contractor has concluded subcontracting arrangements in accordance with the
+contract, the provisions of this Annex will apply mutatis mutandis to the subcontractor(s) and
+their personnel.
+Section 2 – CCTV
+For the safety and security of its staff, visitors, buildings, assets and information, and for
+logistical reasons, the contracting authority operates a video protection system on parts of its
+premises. Further details on the contracting authority's video systems are available in 'The
+General Secretariat of the Council's Policy on Use of Video Systems', approved by the
+Secretary-General on 16 June 2011, which is available on the Council website
+at http://www.consilium.europa.eu/en/general-secretariat/corporate-policies/pdf/video-en_pdf/
+_______________________________

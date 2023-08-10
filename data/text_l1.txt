@@ -1,0 +1,34 @@
+Since this is a book about statistics and not manufacturing, let’s go back
+to the main point, which is that the “health” of U.S. manufacturing—
+something seemingly easy to quantify—depends on how one chooses to
+define health: output or employment? In this case (and many others), the
+most complete story comes from including both figures, as the Economist
+wisely chose to do in its graph.
+Even when we agree on a single measure of success, say, student test
+scores, there is plenty of statistical wiggle room. See if you can reconcile
+the following hypothetical statements, both of which could be true:
+Politician A (the challenger): “Our schools are getting worse! Sixty
+percent of our schools had lower test scores this year than last year.”
+Politician B (the incumbent): “Our schools are getting better! Eighty
+percent of our students had higher test scores this year than last year.”
+Here’s a hint: The schools do not all necessarily have the same number of
+students. If you take another look at the seemingly contradictory statements,
+what you’ll see is that one politician is using schools as his unit of analysis
+(“Sixty percent of our schools . . .”), and the other is using students as the
+unit of analysis (“Eighty percent of our students . . .”). The unit of analysis
+is the entity being compared or described by the statistics—school
+performance by one of them and student performance by the other. It’s
+entirely possible for most of the students to be improving and most of the
+schools to be getting worse—if the students showing improvement happen
+to be in very big schools. To make this example more intuitive, let’s do the
+same exercise by using American states:
+Politician A (a populist): “Our economy is in the crapper! Thirty states
+had falling incomes last year.”
+Politician B (more of an elitist): “Our economy is showing appreciable
+gains: Seventy percent of Americans had rising incomes last year.”
+What I would infer from those statements is that the biggest states have
+the healthiest economies: New York, California, Texas, Illinois, and so on.
+The thirty states with falling average incomes are likely to be much smaller:
+Vermont, North Dakota, Rhode Island, and so on. Given the disparity in the
+size of the states, it’s entirely possible that the majority of states are doing
+worse while the majority of Americans are doing better.

@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "chakra": "^0.0.3",
-    "ui": "^0.2.4"
+    "tesseract.js": "^4.0.6"
   }
 }
