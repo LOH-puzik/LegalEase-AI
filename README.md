@@ -62,7 +62,7 @@ This process simplifies large legal texts, creating brief summaries and key poin
 
 <br>
 
-![](le2.png)
+![](le3.png)
 
 <br>
 <br>
