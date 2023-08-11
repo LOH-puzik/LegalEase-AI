@@ -38,7 +38,6 @@ The highest scoring answer is selected and shown to the user, mimicking the open
 
 <br>
 <br>
-<br>
 
 ## Document Analyzer
 
@@ -67,7 +66,6 @@ This process simplifies large legal texts, creating brief summaries and key poin
 
 <br>
 <br>
-<br>
 
 ## Lawyer Cost Estimator
 
@@ -83,7 +81,6 @@ based on specific case details:
   <img src="demo3.gif"/>
 </p>
 
-<br>
 <br>
 <br>
 <br>
