@@ -25,6 +25,8 @@ This vector undergoes a similarity search in the vector database.
 The top matches are converted back into text and sent to the Generator, which provides several answers. 
 The highest scoring answer is selected and shown to the user, mimicking the open-book exam process using AI mimicking the open-book exam process.
 
+![](le1.png)
+
 
 ## Document Analyzer
 
@@ -40,6 +42,8 @@ The Document Analyzer works by dividing a legal document into manageable paragra
 Each paragraph is then summarized, and duplicate summaries are removed. 
 A single overview paragraph is created from these summaries, and the most important points are identified and listed out. 
 This process simplifies large legal texts, creating brief summaries and key points, making it easier for users to understand their legal commitments.
+
+![](le2.png)
 
 
 ## Lawyer Cost Estimator
