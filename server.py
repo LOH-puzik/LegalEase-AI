@@ -1,22 +1,8 @@
-import random
-import re
-import torch
-import pdfplumber
-import pickle
-from flask import Flask, request
-from flask_cors import CORS
-from haystack.pipelines import GenerativeQAPipeline
-from haystack.nodes import EmbeddingRetriever
-from haystack.nodes import Seq2SeqGenerator
-from haystack.document_stores import PineconeDocumentStore
-
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from transformers import BertTokenizerFast, BigBirdPegasusForConditionalGeneration, AutoTokenizer, pipeline
+from includes.dependencies import *
 
 app = Flask(__name__)
 CORS(app)
 
-# PineconeDocumentStore instance
 document_store = PineconeDocumentStore(
     environment='us-west4-gcp-free',
     api_key='',
@@ -25,24 +11,19 @@ document_store = PineconeDocumentStore(
     embedding_dim=768
 )
 
-# EmbeddingRetriever instance
 retriever = EmbeddingRetriever(
    document_store=document_store,
    embedding_model="flax-sentence-embeddings/all_datasets_v3_mpnet-base",
    model_format="sentence_transformers"
 )
 
-# Seq2SeqGenerator instance
 generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
 
-# Building the pipeline
 pipe = GenerativeQAPipeline(generator, retriever)
 
-# Initialize Bert summarizer & tokenizer
 bert_tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")
 bert_summarizer = pipeline("summarization", device=0)
 
-# Measure the length of a text
 def bert_len(text):
     tokens = bert_tokenizer.encode(
         text,
@@ -52,7 +33,6 @@ def bert_len(text):
     )
     return len(tokens)
 
-# Text splitter initialization
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=500,  
     chunk_overlap=30,
@@ -61,6 +41,15 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 
 def extract_text_from_pdf(file):
+    """
+    Extracts text from a PDF file.
+
+    Args:
+        file (str): Path to the PDF file.
+
+    Returns:
+        str: Extracted text from the PDF.
+    """
     try:
         with pdfplumber.open(file) as pdf:
             text = ''.join(page.extract_text() for page in pdf.pages)
@@ -68,50 +57,82 @@ def extract_text_from_pdf(file):
     except Exception as e:
         print(f'Error extracting text from PDF: {e}')
         return None
-    
-# Remove duplicate sentences from the text 
+
 def remove_duplicates(text):
+    """
+    Removes duplicate sentences from the text.
+
+    Args:
+        text (str): Input text.
+
+    Returns:
+        str: Text with duplicate sentences removed.
+    """
     seen = set()
     return ". ".join([sentence for sentence in text.split(". ") if sentence not in seen and not seen.add(sentence)])
 
-# Summarize a text
 def generate_summary(text):  
+    """
+    Generates a summary of the input text.
+
+    Args:
+        text (str): Input text.
+
+    Returns:
+        str: Generated summary.
+    """
     summary = bert_summarizer(text, max_length=500, min_length=25, do_sample=False)
     return summary[0]['summary_text']
 
-# Join the chunks together and summarize them
 def summarize_chunks(text):
+    """
+    Splits the text into chunks, summarizes each chunk, and combines them.
+
+    Args:
+        text (str): Input text.
+
+    Returns:
+        str: Summarized text.
+    """
     chunks = text_splitter.split_text(text)
     chunk_summaries = [generate_summary(chunk) for chunk in chunks]
     text = ". ".join(chunk_summaries)
     text = remove_duplicates(text)
     return text
 
-# Arrange the summary
 def arrange_text(text):
-    # Replace ".." by "."
+    """
+    Arranges the text by formatting and cleaning.
+
+    Args:
+        text (str): Input text.
+
+    Returns:
+        str: Formatted and cleaned text.
+    """
     text = re.sub(r'\.\.', '.', text)
-    # Replace " ." by "."
     text = re.sub(r' \.', '.', text)
-    # Return to line after each "."
     text = re.sub(r'\.', '.\n', text)
-    # Replace "  " by " " and "   " by " "
     text = re.sub(r' +', ' ', text)
-    # Add "•" before the start of any sentence
     text = re.sub(r'(^|\n)([^\n])', r'\1• \2', text)
-    # Remove trailing bullet points
     text = re.sub(r'\n•  +$', '', text)
     return text
 
 def generate_explanation(text, device='cpu'):
-    # Initialize the model & tokenizer
+    """
+    Generates an explanation for the given text.
+
+    Args:
+        text (str): Input text.
+        device (str): Device to use ('cpu' or 'cuda').
+
+    Returns:
+        tuple: Explanation text and formatted input text.
+    """
     pegasus_tokenizer = AutoTokenizer.from_pretrained("google/bigbird-pegasus-large-bigpatent")
-    pegasus_model = BigBirdPegasusForConditionalGeneration.from_pretrained("google/bigbird-pegasus-large-bigpatent")   
-    # Check if a GPU is available and if not, use a CPU
-    device = torch.device('cpu')    
-    # Move the model to the device
+    pegasus_model = BigBirdPegasusForConditionalGeneration.from_pretrained("google/bigbird-pegasus-large-bigpatent")
+    device = torch.device(device)
     pegasus_model.to(device)
-    # Define the inputs
     explanation_input = "explain this " + text
     inputs = pegasus_tokenizer(explanation_input, return_tensors='pt').to(device)
     explanation_ids = pegasus_model.generate(
@@ -122,31 +143,40 @@ def generate_explanation(text, device='cpu'):
         length_penalty=0.9,
         repetition_penalty=1.4
     )
-    explanation = pegasus_tokenizer.decode(explanation_ids[0], skip_special_tokens=True)   
-    # Delete the tensors
+    explanation = pegasus_tokenizer.decode(explanation_ids[0], skip_special_tokens=True)
     del inputs
     del explanation_ids
-    # Delete the models and tokenizer
     del pegasus_model
-    del pegasus_tokenizer    
-    # Empty the cache
+    del pegasus_tokenizer
     torch.cuda.empty_cache()
     text = explanation, 'Here are the most important points:' '\n\n', arrange_text(text)
     return text
 
 def summarize_doc(text):
+    """
+    Summarizes a document.
+
+    Args:
+        text (str): Input document text.
+
+    Returns:
+        tuple: Explanation text and formatted summary.
+    """
     text = summarize_chunks(text)
-    # Check if the summarized text length is over 1500 words
     while len(text.split()) > 1500:
         text = summarize_chunks(text)
     
     text = generate_explanation(text)
-    return text    
+    return text
 
-
-# Chatbot endpoint
 @app.route('/chat', methods=['POST'])
 def chat():
+    """
+    Chatbot endpoint.
+
+    Returns:
+        dict: JSON response containing the chatbot's message.
+    """
     input_text = request.json.get('message')
 
     result = pipe.run(
@@ -171,28 +201,33 @@ def chat():
 
     return {'message': output_text}
 
-
-# Doc Analyser endpoint
 @app.route('/doc', methods=['POST'])
 def upload_file():
+    """
+    Document Analyzer endpoint.
+
+    Returns:
+        dict: JSON response containing the document summary.
+    """
     file = request.files['file']
     if not file or not file.filename.lower().endswith('.pdf'):
         return 'Invalid or missing PDF file'
 
-    # Extract text from the PDF file
     document_text = extract_text_from_pdf(file)
     if not document_text:
         return 'Error extracting text from PDF'
 
-    # Summarize the document and return the summary as a JSON response
     summary = summarize_doc(document_text)
     return {"summary": summary}
 
-
-# Predict endpoint
 @app.route('/predict', methods=['POST'])
 def predict():
-    # Retrieve input data
+    """
+    Prediction endpoint.
+
+    Returns:
+        dict: JSON response containing the model prediction.
+    """
     data = request.get_json()
 
     caseType = data.get('caseType')
@@ -201,17 +236,13 @@ def predict():
     articles = data.get('articles')
     guilty = data.get('guilty')
 
-    # Put the data into the right format for your model
-    # This is just an example, you need to adjust it to the needs of your model
     input_data = [[caseType, bulletPoints, paragraphs, articles, guilty]]
 
-    # Make a prediction
     with open('./models/pred.pkl', 'rb') as f:
         model = pickle.load(f)
 
     prediction = model.predict(input_data)
 
-    # Return the prediction
     return {'prediction': prediction.tolist()}  # convert prediction to list for JSON serialization
 
 if __name__ == '__main__':
